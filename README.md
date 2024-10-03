@@ -1,7 +1,7 @@
 # Linear Algebra in Computer Graphics
 
 ## Overview
-This project explores the application of **Linear Algebra** in **Computer Graphics**. It includes a detailed report on the key mathematical concepts, multiple Python implementations of graphical transformations, and a game built using linear algebra principles. The report has links to codes and outputs through google drive links. Howver the codes and output are also attached in this repo.
+This project explores the application of Linear Algebra in Computer Graphics. It includes a detailed report on the key mathematical concepts, multiple Python implementations of graphical transformations, and a game built using linear algebra principles. The report has links to codes and outputs which can be clicked (redirected to google drive link) upon download. However the codes and output are also attached in this repo.
 
 ## Features
 - **Report on Linear Algebra Applications**: A comprehensive report detailing the use of linear algebra in computer graphics, focusing on transformations like scaling, rotation, translation, and projection.
