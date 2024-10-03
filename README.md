@@ -11,7 +11,6 @@ This project explores the application of **Linear Algebra** in **Computer Graphi
 ## Technologies Used
 - **Python**: Core programming language used for implementations.
 - **Matplotlib**: Library used for plotting and visualizing graphical transformations.
-- **Pygame**: Used to build the interactive game that leverages linear algebra for functionality.
 
 ## Usage
 - **Report and Videos**: There is a pdf file in this repo which is the report and some mp4 files showing some outputs. Download these to view them.
