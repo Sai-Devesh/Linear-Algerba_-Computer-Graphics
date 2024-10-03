@@ -30,5 +30,7 @@ This project explores the application of **Linear Algebra** in **Computer Graphi
 ## Game Screenshot
 Here’s a screenshot of the game in action:
 
-![Game Screenshot](path/to/your/image.png)
+<p align="center">
+  <img src="sample_code8_game_output.png" alt="Before" width="400"/>
+</p>
 
